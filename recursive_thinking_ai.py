@@ -2,10 +2,7 @@ from openai import OpenAI
 import os
 from typing import List, Dict
 import json
-import requests
 from datetime import datetime
-import sys
-import time
 
 
 class EnhancedRecursiveThinkingChat:
